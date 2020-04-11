@@ -1,9 +1,4 @@
-<?php
-	/*$adapter = "mysql";
-	$host = "localhost";
-	$dbname = "id13126182_blog_db";
-	$user = 'id13126182_kirill';
-	$password = '6pVw+I<E2rVzB!UI';*/ 
+<?php 
 	$adapter = "mysql";
 	$host = "localhost";
 	$dbname = "blog_db";
